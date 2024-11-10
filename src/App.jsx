@@ -1,7 +1,11 @@
+import ToastPlayground from "./components/ToastPlayground/ToastPlayground.jsx";
+import Footer from "./components/Footer/Footer.jsx";
+
 function App() {
   return (
     <>
-      <div></div>
+      <ToastPlayground />
+      <Footer />
     </>
   );
 }
